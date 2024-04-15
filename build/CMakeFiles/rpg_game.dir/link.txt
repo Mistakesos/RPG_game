@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/rpg_game.dir/src/Evil.cpp.o CMakeFiles/rpg_game.dir/src/cowboy.cpp.o CMakeFiles/rpg_game.dir/src/faHai.cpp.o CMakeFiles/rpg_game.dir/src/hate.cpp.o CMakeFiles/rpg_game.dir/src/main.cpp.o CMakeFiles/rpg_game.dir/src/playsound.cpp.o -o /home/zero/Vscode/Game_try/bin/rpg_game  /usr/lib/libsfml-audio.so.2.6.1 /usr/lib/libsfml-system.so.2.6.1
