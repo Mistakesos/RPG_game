@@ -24,7 +24,23 @@ int main()
     switch(select)
     {
         case 1:
+        {
             player_ptr = std::make_unique<Cowboy>("牛仔", 200, 120, 12, 4, 6, 24);
+            cout << "我还没做好呢，真的" << endl;
+            cout << "按回车键继续" << endl;
+            std::cin.get();
+            char select;
+            cout << "按y然后回车退出，按n然后回车强制继续" << endl;
+            std::cin >> select;
+            if(select == 'y')
+            {
+                exit(0);
+            }
+            else if(select == 'n')
+            {
+                cout << "是你决定继续的啊，游戏可能出现不可预知的错误！" << endl;
+            }
+        }
             break;
         case 2:
             player_ptr = std::make_unique<FaHai>("法海", 300, 300, 200, 200, 18, 3, 100, 32);
