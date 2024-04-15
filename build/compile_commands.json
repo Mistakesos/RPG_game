@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/Evil.cpp.o -c /home/zero/Vscode/Game_try/src/Evil.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/Evil.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/Evil.cpp.o"
+},
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/cowboy.cpp.o -c /home/zero/Vscode/Game_try/src/cowboy.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/cowboy.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/cowboy.cpp.o"
+},
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/faHai.cpp.o -c /home/zero/Vscode/Game_try/src/faHai.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/faHai.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/faHai.cpp.o"
+},
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/hate.cpp.o -c /home/zero/Vscode/Game_try/src/hate.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/hate.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/hate.cpp.o"
+},
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/main.cpp.o -c /home/zero/Vscode/Game_try/src/main.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/main.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/zero/Vscode/Game_try/build",
+  "command": "/usr/bin/g++ -I/home/zero/Vscode/Game_try/inc -g -fdiagnostics-color=always -Wall -std=c++23 -g -o CMakeFiles/rpg_game.dir/src/playsound.cpp.o -c /home/zero/Vscode/Game_try/src/playsound.cpp",
+  "file": "/home/zero/Vscode/Game_try/src/playsound.cpp",
+  "output": "CMakeFiles/rpg_game.dir/src/playsound.cpp.o"
+}
+]

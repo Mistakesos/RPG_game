@@ -1,0 +1,3 @@
+/home/zero/Vscode/Game_try/build/CMakeFiles/rpg_game.dir
+/home/zero/Vscode/Game_try/build/CMakeFiles/edit_cache.dir
+/home/zero/Vscode/Game_try/build/CMakeFiles/rebuild_cache.dir

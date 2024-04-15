@@ -1,0 +1,12 @@
+# ninja log v5
+2	388	1713119217070096661	CMakeFiles/rpg_game.dir/src/hate.cpp.o	e8b4ac2ff1c2320e
+1	926	1713141527780243252	CMakeFiles/rpg_game.dir/src/Evil.cpp.o	78003c94f0ba45fc
+1	745	1713086699721238726	CMakeFiles/rpg_game.dir/src/playsound.cpp.o	a3d7a264d56bda6e
+1211	1326	1713143241467107724	/home/zero/Vscode/Game_try/bin/rpg_game	fe5863536eebe675
+3	937	1713143241077118528	CMakeFiles/rpg_game.dir/src/faHai.cpp.o	48a36d0d2221cafc
+2	1034	1713131251444486771	CMakeFiles/rpg_game.dir/src/cowboy.cpp.o	4e583da75b78b07e
+3	1211	1713143241350444289	CMakeFiles/rpg_game.dir/src/main.cpp.o	1cc3209529ce6b8c
+1	822	1713143425036354988	CMakeFiles/rpg_game.dir/src/faHai.cpp.o	48a36d0d2221cafc
+822	910	1713143425123039109	/home/zero/Vscode/Game_try/bin/rpg_game	fe5863536eebe675
+1	810	1713143739662261650	CMakeFiles/rpg_game.dir/src/faHai.cpp.o	48a36d0d2221cafc
+810	897	1713143739748938703	/home/zero/Vscode/Game_try/bin/rpg_game	fe5863536eebe675
